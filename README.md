@@ -11,7 +11,7 @@ Includes key details like Roll Number, Student Name, Father's Name, Date of Birt
 -<a href=https://github.com/Arpitakaushal/excel-project/blob/main/reportcard.xlsx> Dataset view</a>
  
 ## Report card
-<a href=https://github.com/Arpitakaushal/excel-project/blob/main/report%20card.png>report card view</a>
+<a href=https://github.com/Arpitakaushal/excel-project/blob/main/report%20ca>report card view</a>
 
 ![report card1](https://github.com/user-attachments/assets/9daa76a3-b05b-4dde-b4a1-cfdf5a50d4fb)
 
